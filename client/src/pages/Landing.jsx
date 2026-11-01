@@ -121,7 +121,7 @@ export default function Landing() {
 
       <footer className="lp-foot">
         <span>Taskboard</span>
-        <span>Built with React, Node.js and MongoDB</span>
+        <span>Built by ❤️ @Megha</span>
         <Link to="/login">Sign in</Link>
       </footer>
     </div>
